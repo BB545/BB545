@@ -1,4 +1,4 @@
-<div align="center" height="200px">
+<div align="center" style="height:200px;">
   <img src="https://github.com/BB545/BB545/blob/main/Welcome%20to%20Hyunhee%E2%80%99s%20Github.gif" />
 </div>
 
@@ -7,7 +7,7 @@
 
 
 <div align="center">
-  ⚡Tech Stack⚡
+  ###⚡Tech Stack⚡
 </div>
 
 
@@ -45,7 +45,7 @@
 
 
 <div align="center">
-  ⚡Studing⚡
+  ###⚡Studing⚡
 </div>
 
 
@@ -75,7 +75,7 @@
 
 
 <div align="center">
-  🛠️Tools🛠️
+  ###🛠️Tools🛠️
 </div>
 
 
@@ -105,7 +105,7 @@
 
 
 <div align="center">
-  📑Blog📑
+  ###📑Blog📑
 </div>
 
 

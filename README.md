@@ -3,14 +3,13 @@
 </div>
 
 
------------
 
 
+<div align="center">
+  <h3>⚡Tech Stack⚡</h3>
+</div>
 
-### ⚡Tech Stack⚡
-  
-
-
+<br />
 
 
 <div align="center">
@@ -75,7 +74,7 @@
 
 
 <div align="center">
-  ###🛠️Tools🛠️
+  <h3>🛠️Tools🛠️</h3>
 </div>
 
 
@@ -105,7 +104,7 @@
 
 
 <div align="center">
-  ###📑Blog📑
+  <h3>📑Blog📑</h3>
 </div>
 
 

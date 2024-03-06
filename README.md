@@ -34,7 +34,7 @@
 <br />
 
 <div align="center">
-  <h3>⚡Studing⚡</h3>
+  <h3>⚡Studying⚡</h3>
 </div>
 
 <br />

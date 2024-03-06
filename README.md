@@ -3,8 +3,6 @@
 </div>
 
 
-
-
 <div align="center">
   <h3>⚡Tech Stack⚡</h3>
 </div>
@@ -27,27 +25,19 @@
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" />
 </div>
 
-
-
-
-
-
-
+<br />
+<br />
 
 ----------
 
-
-
-
-
-
-
+<br />
+<br />
 
 <div align="center">
   <h3>⚡Studing⚡</h3>
 </div>
 
-
+<br />
 
 
 <div align="center">
@@ -58,26 +48,19 @@
 </div>
 
 
-
-
-
-
-
+<br />
+<br />
 
 ----------
 
-
-
-
-
-
-
+<br />
+<br />
 
 <div align="center">
   <h3>🛠️Tools🛠️</h3>
 </div>
 
-
+<br />
 
 
 <div align="center">
@@ -88,26 +71,19 @@
 </div>
 
 
-
-
-
-
-
+<br />
+<br />
 
 ----------
 
-
-
-
-
-
-
+<br />
+<br />
 
 <div align="center">
   <h3>📑Blog📑</h3>
 </div>
 
-
+<br />
 
 
 <div align="center">

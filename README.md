@@ -3,8 +3,12 @@
 </div>
 
 
+-----------
 
-⚡Tech Stack⚡
+
+<div align="center">
+  ⚡Tech Stack⚡
+</div>
 
 
 <div align="center">
@@ -23,7 +27,16 @@
 </div>
 
 
-⚡Studing⚡
+
+
+----------
+
+
+
+
+<div align="center">
+  ⚡Studing⚡
+</div>
 
 
 <div align="center">
@@ -34,7 +47,16 @@
 </div>
 
 
-🛠️Tools🛠️
+
+
+----------
+
+
+
+
+<div align="center">
+  🛠️Tools🛠️
+</div>
 
 
 <div align="center">
@@ -45,7 +67,17 @@
 </div>
 
 
-📑Blog📑
+
+
+----------
+
+
+
+
+<div align="center">
+  📑Blog📑
+</div>
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/tistory-F24E1E.svg?style=for-the-badge&logo=Tistory&logoColor=white" />

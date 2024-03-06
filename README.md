@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/BB545/BB545/blob/main/Welcome%20to%20Hyunhee%E2%80%99s%20Github.gif" height="400" />
+  <img src="https://github.com/BB545/BB545/blob/main/Welcome%20to%20Hyunhee%E2%80%99s%20Github.gif" height="500" />
 </div>
 
 
@@ -47,7 +47,6 @@
   <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=Node.js&logoColor=white" />
 </div>
 
-
 <br />
 <br />
 
@@ -69,7 +68,6 @@
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" />
   <img src="https://img.shields.io/badge/vscode-20232a.svg?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
 </div>
-
 
 <br />
 <br />

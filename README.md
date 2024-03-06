@@ -43,5 +43,5 @@
 📑Blog📑
 
 
-<img src="https://img.shields.io/badge/tistory-#F24E1E.svg?style=for-the-badge&logo=Tistory&logoColor=white" />
+<img src="https://img.shields.io/badge/tistory-F24E1E.svg?style=for-the-badge&logo=Tistory&logoColor=white" />
 <https://hyunh404.tistory.com/>

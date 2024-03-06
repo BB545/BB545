@@ -2,6 +2,7 @@
   <img src="https://github.com/BB545/BB545/blob/main/Welcome%20to%20Hyunhee%E2%80%99s%20Github.gif" height="500" />
 </div>
 
+<br />
 
 <div align="center">
   <h3>⚡Tech Stack⚡</h3>
@@ -26,11 +27,9 @@
 </div>
 
 <br />
-<br />
 
 ----------
 
-<br />
 <br />
 
 <div align="center">
@@ -48,11 +47,9 @@
 </div>
 
 <br />
-<br />
 
 ----------
 
-<br />
 <br />
 
 <div align="center">
@@ -70,11 +67,9 @@
 </div>
 
 <br />
-<br />
 
 ----------
 
-<br />
 <br />
 
 <div align="center">

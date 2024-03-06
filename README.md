@@ -1,14 +1,13 @@
-<div align="center" style="height:200px;">
-  <img src="https://github.com/BB545/BB545/blob/main/Welcome%20to%20Hyunhee%E2%80%99s%20Github.gif" />
+<div align="center">
+  <img src="https://github.com/BB545/BB545/blob/main/Welcome%20to%20Hyunhee%E2%80%99s%20Github.gif" height="200" />
 </div>
 
 
 -----------
 
 
-<div align="center">
-  ###⚡Tech Stack⚡
-</div>
+###⚡Tech Stack⚡
+
 
 
 

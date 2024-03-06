@@ -21,6 +21,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white" />
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" />

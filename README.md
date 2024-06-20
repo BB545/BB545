@@ -31,6 +31,8 @@
   <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=Node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
   <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" />
+  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
 </div>
 <br />
 
@@ -57,6 +59,7 @@
 
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white" />
 </div>
@@ -78,8 +81,14 @@
   <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/vscode-20232a.svg?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
 </div>
+<br />
+
+<div align="center">
+  <img src="https://img.shields.io/badge/vscode-20232a.svg?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
+</div>
+
 
 <br />
 

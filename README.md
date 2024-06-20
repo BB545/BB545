@@ -16,11 +16,13 @@
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/reactnative-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" />
 </div>
 
 
 <div align="center">
+  <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=yellow" />
   <img src="https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white" />
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white" />
@@ -42,8 +44,7 @@
 
 
 <div align="center">
-  <img src="https://img.shields.io/badge/reactnative-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white" />
 </div>
 

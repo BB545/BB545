@@ -110,8 +110,3 @@
   <https://hyunh404.tistory.com/>
 </div>
 
-
----------
-
-
-[![Hyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=BB545&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/bi-sz/github-readme-stats)

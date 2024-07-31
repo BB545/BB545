@@ -87,7 +87,7 @@
 <br />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/vs code-0078d7.svg?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/visual studio code-0078d7.svg?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
   <img src="https://img.shields.io/badge/intellij idea-2962FF.svg?style=for-the-badge&logo=intellijidea&logoColor=000000" />
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
 </div>

@@ -63,7 +63,7 @@
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/nextdotjs-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />
 </div>
 
 <br />
